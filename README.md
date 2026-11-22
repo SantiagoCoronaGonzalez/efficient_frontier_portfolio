@@ -65,4 +65,4 @@ Precios de las emisoras e IPC (^MXX): Yahoo Finance, Adj Close mensual. Se exclu
 Prima de riesgo de mercado: Damodaran, Country Risk Premiums (enero 2026)
 Autor
 
-Santiago Corona González, estudiante de Economía en el CIDE
+Santiago Emiliano Corona Gonzalez, estudiante de Economía en el CIDE
